@@ -1,4 +1,3 @@
-简体中文 | [English](./README_EN.md)
 
 <p>
 <strong><h2>無名の主页</h2></strong>
